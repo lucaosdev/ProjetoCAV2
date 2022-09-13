@@ -1,0 +1,34 @@
+* {
+    background: #ECE3E8;
+}
+
+#lateral {
+    flex-direction: column;
+    background-color: #181818;
+}
+
+.italian{
+    width: 40px;
+    border-radius: 100px;
+}
+
+.yaki{
+    border-radius: 100px;
+    background-color: #F6F0F4;
+    width: 40px;
+    height: 40px;
+}
+
+.pizza{
+    border-radius: 100px;
+    background-color: #F6F0F4;
+    width: 40px;
+    height: 40px;
+}
+
+.drinks{
+    border-radius: 100px;
+    background-color: #F6F0F4;
+    width: 40px;
+    height: 40px;
+}
